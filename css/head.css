@@ -17,7 +17,7 @@ body {
     background: #2e2e2e;
 }
 header{
-    position: sticky;
+    position: fixed;
     width: 100%;
     top: 0;
 }
@@ -51,7 +51,7 @@ a{
 /* Sticky sidebar */
 .sticky{
     display: flex;
-    position: sticky;
+    position: fixed;
     top: 35%;                                       /*  CHECKEN!!!!! */
     z-index: 4;
 }
