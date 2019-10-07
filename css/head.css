@@ -140,17 +140,9 @@ li:after {
 }
 /* Headphone ende */
 /* Lounger.html article */
-.img{
-    position: relative;
-    top: -430px;
-    z-index: -1;
-}
 .img1{
     width: 50%;
-    height: 105vh;
-}
-section{
-    height: 35vh;
+    height: 99vh;
 }
 .lounger-text{
     position: absolute;
@@ -169,15 +161,10 @@ section{
     font-size: 1.3em;
 }
 /* EXPERIENCE SECTION */
-.img-2{
-    position: relative;
-    top: -430px;
-    z-index: -1;
-}
 .img2{
     width: 50%;
-    height: 105vh;
-}
+    height: 99vh;
+} 
 section{
     height: 35vh;
 }
@@ -286,19 +273,17 @@ section{
 .article2 h2{
     font-size: 2em;
     padding-top: 1em;
-    padding-bottom: 1em;
+    color:rgb(232, 210, 202);
+}
+.article2 p{
+    font-family: 'Work Sans';
     color:rgb(232, 210, 202);
 }
 /* Inspiration ende sticky geht nicht und ist müll!!!!! */
 /*  Shop */
-.img-3{
-    position: relative;
-    top: -430px;
-    z-index: -1;
-}
 .img3{
     width: 60%;
-    height: 100vh;
+    height: 99vh;
 }
 .img4{
     position: relative;
